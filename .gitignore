@@ -1,4 +1,5 @@
 streamlit_toggle/frontend/node_modules/
+streamlit_toggle/frontend/package-lock.json
 .venv/
 .vscode/
 *.code-workspace
