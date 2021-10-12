@@ -2,3 +2,4 @@ streamlit_toggle/frontend/node_modules/
 .venv/
 .vscode/
 *.code-workspace
+.idea
