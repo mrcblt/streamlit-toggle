@@ -4,7 +4,7 @@
 
 ## Installation
 
-To build the library Node.js have to be installed. If you are using Anaconda/Miniconda you
+To build the library Node.js has to be installed. If you are using Anaconda/Miniconda you
 can install it with the following command:
 ```bash
 conda install -c conda-forge nodejs=16
