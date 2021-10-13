@@ -1,5 +1,7 @@
-streamlit_toggle/frontend/node_modules/
+streamlit_toggle/frontend/node_modules
 streamlit_toggle/frontend/package-lock.json
+build
+streamlit_toggle.egg-info
 .venv/
 .vscode/
 *.code-workspace
