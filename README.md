@@ -2,6 +2,21 @@
 
 ![Toggle Switch](screenshot.png?raw=true "Streamlit Toggle Switch")
 
+## Installation
+
+To build the library Node.js have to be installed. If you are using Anaconda/Miniconda you
+can install it with the following command:
+```bash
+conda install -c conda-forge nodejs=16
+```
+The `npm` executable has to be in your `PATH`.
+
+You can finally build and install streamlit-toggle automatically by pip with the command:
+```bash
+pip install .
+```
+For this you have to be in the root directory of this repository.
+
 ## Usage
 
 ```python
